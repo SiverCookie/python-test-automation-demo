@@ -184,3 +184,4 @@ __pycache__/
 *.pyc
 .logs/
 report.html
+*.bak
